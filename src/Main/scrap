@@ -1,0 +1,28 @@
+class MyThread {
+    public synchronized void waitForSignal() {
+        try {
+            System.out.println("Thread 1 is waiting for a signal.");
+            wait(); // Thread 1 waits for a signal
+            System.out.println("Thread 1 has been notified.");
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public synchronized void sendSignal() {
+        System.out.println("Thread 2 is sending a signal.");
+        notify(); // Notify a waiting thread (Thread 1)
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        MyThread myThread = new MyThread();
+
+        Thread thread1 = new Thread(() -> myThread.waitForSignal());
+        Thread thread2 = new Thread(() -> myThread.sendSignal());
+
+        thread1.start();
+        thread2.start();
+    }
+}

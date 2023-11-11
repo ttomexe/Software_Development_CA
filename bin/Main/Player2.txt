@@ -1,0 +1,46 @@
+player 2 initial hand: [1, 2, 3, 4]
+player 2 draws a 7 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is [2, 3, 4, 7]
+player 2 draws a 10 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is [2, 4, 7, 10]
+player 2 draws a 13 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is [2, 7, 10, 13]
+player 2 draws a 15 from deck 2
+player 2 discards a 7 to deck 3
+player 2 current hand is [2, 10, 13, 15]
+player 2 draws a 2 from deck 2
+player 2 discards a 10 to deck 3
+player 2 current hand is [2, 13, 15, 2]
+player 2 draws a 3 from deck 2
+player 2 discards a 13 to deck 3
+player 2 current hand is [2, 15, 2, 3]
+player 2 draws a 4 from deck 2
+player 2 discards a 15 to deck 3
+player 2 current hand is [2, 2, 3, 4]
+player 2 draws a 5 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is [2, 2, 4, 5]
+player 2 draws a 12 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is [2, 2, 5, 12]
+player 2 draws a 11 from deck 2
+player 2 discards a 5 to deck 3
+player 2 current hand is [2, 2, 12, 11]
+player 2 draws a 9 from deck 2
+player 2 discards a 12 to deck 3
+player 2 current hand is [2, 2, 11, 9]
+player 2 draws a 2 from deck 2
+player 2 discards a 11 to deck 3
+player 2 current hand is [2, 2, 9, 2]
+player 2 draws a 3 from deck 2
+player 2 discards a 9 to deck 3
+player 2 current hand is [2, 2, 2, 3]
+player 2 draws a 6 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is [2, 2, 2, 6]
+player 4 has informed player 2 that player4 has won
+player 2 exits
+player 2 hand: [2, 2, 2, 6]
