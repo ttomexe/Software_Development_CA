@@ -1,0 +1,24 @@
+player 3 initial hand: [1, 3, 4, 14]
+player 3 draws a 99 from deck 3
+player 3 discards a 1 to deck 4
+player 3 current hand is [3, 4, 14, 99]
+player 3 draws a 99 from deck 3
+player 3 discards a 4 to deck 4
+player 3 current hand is [3, 14, 99, 99]
+player 3 draws a 99 from deck 3
+player 3 discards a 14 to deck 4
+player 3 current hand is [3, 99, 99, 99]
+player 3 draws a 99 from deck 3
+player 3 discards a 99 to deck 4
+player 3 current hand is [3, 99, 99, 99]
+player 2 has informed player 3 that player2 has won
+player 3 exits
+player 3 hand: [3, 99, 99, 99]player 7 has informed player 3 that player7 has won
+player 3 exits
+player 3 hand: [3, 99, 99, 99]player 6 has informed player 3 that player6 has won
+player 3 exits
+player 3 hand: [3, 99, 99, 99]player 5 has informed player 3 that player5 has won
+player 3 exits
+player 3 hand: [3, 99, 99, 99]player 4 has informed player 3 that player4 has won
+player 3 exits
+player 3 hand: [3, 99, 99, 99]
